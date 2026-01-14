@@ -1,0 +1,14 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write .",
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "prettier": "^3.7.4"
+  }
+}
