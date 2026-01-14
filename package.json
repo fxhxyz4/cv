@@ -5,8 +5,7 @@
   "license": "MIT",
   "scripts": {
     "format": "prettier --write .",
-    "deploy": "gh-pages -d .",
-    "go": "npm run format && npm run deploy"
+    "deploy": "gh-pages -d ."
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
